@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Additional modules
-graphic_arts
+graphic_arts/
